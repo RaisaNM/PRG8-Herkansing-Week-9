@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(195, 215, 236);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+#title-text{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: larger;
+}
+
+#myChart{
+    background-color: aliceblue;
+}
+
+#weather, #reccomendation, #accuracy{
+    color: rgb(57, 87, 255);
+}
+
+#form-field{
+    background-color: rgb(255, 255, 255);
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 2%;
+   
+}
+
+#result-info{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#input-form{
+    background-color: aliceblue;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 2%;
+}
+
+#result-title{
+    text-align: center;
+}
+
+label{
+    font-weight:bold;
+}
+
+#prediction{
+    font-size:medium;
+    font-weight: bold;
+}
+
