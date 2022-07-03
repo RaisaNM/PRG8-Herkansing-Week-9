@@ -4,7 +4,7 @@ PRG08 2022 Eindopdracht deel B week 9 Herkansing
 
 **<h2>Inlever opdracht van Raisa Mahesvara Niadilova, 0991518.</h2>**
 
-**<h3>[Applicatie op Github pages]: </h3>**
+**<h3>[Applicatie op Github pages]: https://raisanm.github.io/PRG8-Herkansing-Week-9/</h3>**
 
 **<h3>[Screencast van de applicatie]:https://youtu.be/T32wBLLBMoA  </h3>**
 
